@@ -1,0 +1,23 @@
+#surefire
+#Sun Jul 30 14:19:16 EDT 2017
+testClassesDirectory=/Users/bittech/Documents/workspace/BTC009/jenkin1/target/test-classes
+useManifestOnlyJar=true
+classPathUrl.1=/Users/bittech/Documents/workspace/BTC009/jenkin1/target/classes
+reportsDirectory=/Users/bittech/Documents/workspace/BTC009/jenkin1/target/surefire-reports
+classPathUrl.0=/Users/bittech/Documents/workspace/BTC009/jenkin1/target/test-classes
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=/Users/bittech/Documents/workspace/BTC009/jenkin1/src/test/java
+surefireClassPathUrl.1=/Users/bittech/.m2/repository/org/apache/maven/surefire/surefire-api/2.12.4/surefire-api-2.12.4.jar
+surefireClassPathUrl.0=/Users/bittech/.m2/repository/org/apache/maven/surefire/surefire-junit3/2.12.4/surefire-junit3-2.12.4.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+tc.0=hello.SmokeTest
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+runStatisticsFile=/Users/bittech/Documents/workspace/BTC009/jenkin1/.surefire-10A24362BD7B19BD10108D9CC52EE316C568ABF5
+includes0=**/Test*.java
+childDelegation=false
